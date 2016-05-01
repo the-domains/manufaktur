@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[manufaktur]]></title>
+        <description><![CDATA[manufaktur]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 09:01:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ee0b0b7-b68b-41da-8877-b765596d87c5.jpg">]]></description>
+            <link>undefined50-zhenskih-idej-na-specialnoj-byuti-zone-ot-vystavki-letnyaya/index.html</link>
+            <guid isPermaLink="false">24a14e45-ecbb-4871-9a45-6cb623d1a639</guid>
+            <pubDate>Sun, 01 May 2016 09:01:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
